@@ -1,0 +1,13 @@
+/__pycache__
+/.vscode
+/build
+/dist
+/charging_cycles/slprj
+
+energy_sensitivity.py
+*.eps
+*.png
+*.svg
+*.jpg
+*.slx
+*.original
